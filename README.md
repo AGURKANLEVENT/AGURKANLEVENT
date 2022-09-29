@@ -1,0 +1,50 @@
+- 👋 Hi, I’m @AGURKANLEVENT
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+AGURKANLEVENT/AGURKANLEVENT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+1.soru,
+
+adımlar;
+2,27,16,22,18,6
+2,6,16,22,18,27
+2,6,16,18,22,27
+
+2.
+O(n^2)
+
+
+
+
+4. 
+average case.
+
+5. 
+2,3,5,8,7,9,4,15,6
+2,3,4,8,7,9,5,15,6
+2,3,4,5,7,9,8,15,6
+2,3,4,5,7,8,9,15,6
+
+proje 2
+
+1.
+[16,21,11,8,12,22]
+[16,21,11] - [8,12,22]
+[16,21] [11]-[8,12] [22]
+[16] [21] [11]-[8] [12] [22]
+[16,21] [11] - [8,12] [22]
+[11,16,21]-[8,12,22]
+[8,11,12,16,21,22]
+ 2.
+ O(nlogn)
+ 
+ proje 3
+kök 6 solunda 4 sağında 8
+4'ün solunda 2 sağında 5    8'in sağında 7 solunda 9
+2nin solunda 1 sağında 3
+1'in sağında 0
