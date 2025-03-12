@@ -25,4 +25,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ## 📊 **GitHub İstatistiklerim:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadın&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AGURKANLEVENT&show_icons=true&theme=radical)  
